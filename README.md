@@ -26,9 +26,18 @@ openl3 - https://github.com/marl/openl3
 
 # Notes:
 
-- Data Augmentation:
+- Quality of labeling
+
+## Data Augmentation:
+- Audio
     - Timeshifting
     - Timestretch
     - Pitch
-    - Noise
+    - Noise 
+        - add (wablr open data ??)
+        - remove
+- Extra
+    - GPS ?
     
+## Ethics
+    - Who may ideally benefit from the technology? Could it do potential harm?
