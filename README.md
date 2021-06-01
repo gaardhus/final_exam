@@ -17,7 +17,9 @@ https://www.kaggle.com/shreyasajal/audio-albumentations-torchaudio-audiomentatio
 
 
 ### YouTube:  
-Audio Classification with Machine Learning (EuroPython 2019) - https://www.youtube.com/watch?v=uCGROOUO_wY (https://github.com/jonnor/ESC-CNN-microcontroller)
+Audio Classification with Machine Learning (EuroPython 2019) - https://www.youtube.com/watch?v=uCGROOUO_wY (https://github.com/jonnor/ESC-CNN-microcontroller)  
+Who's singing? Automatic bird sound recognition with machine learning - Dan Stowell - https://www.youtube.com/watch?v=pzmdOETnhI0
+
 
 ### Libraries
 openl3 - https://github.com/marl/openl3
