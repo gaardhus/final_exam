@@ -24,11 +24,14 @@ Who's singing? Automatic bird sound recognition with machine learning - Dan Stow
 ### Libraries
 openl3 - https://github.com/marl/openl3
 
-# Notes:
+### Background
+Bird vocalization - https://en.wikipedia.org/wiki/Bird_vocalization
+
+## Notes:
 
 - Quality of labeling
 
-## Data Augmentation:
+### Data Augmentation:
 - Audio
     - Timeshifting
     - Timestretch
@@ -38,6 +41,6 @@ openl3 - https://github.com/marl/openl3
         - remove
 - Extra
     - GPS ?
-    
-## Ethics
-    - Who may ideally benefit from the technology? Could it do potential harm?
+ 
+### Ethics
+- Who may ideally benefit from the technology? Could it do potential harm?
