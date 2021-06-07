@@ -17,16 +17,30 @@ https://www.kaggle.com/shreyasajal/audio-albumentations-torchaudio-audiomentatio
 
 
 ### YouTube:  
-Audio Classification with Machine Learning (EuroPython 2019) - https://www.youtube.com/watch?v=uCGROOUO_wY (https://github.com/jonnor/ESC-CNN-microcontroller)
+Audio Classification with Machine Learning (EuroPython 2019) - https://www.youtube.com/watch?v=uCGROOUO_wY (https://github.com/jonnor/ESC-CNN-microcontroller)  
+Who's singing? Automatic bird sound recognition with machine learning - Dan Stowell - https://www.youtube.com/watch?v=pzmdOETnhI0  
+How convolutional neural networks work, in depth - https://www.youtube.com/watch?v=JB8T_zN7ZC0
 
 ### Libraries
 openl3 - https://github.com/marl/openl3
 
-# Notes:
+### Background
+Bird vocalization - https://en.wikipedia.org/wiki/Bird_vocalization
 
-- Data Augmentation:
+## Notes:
+
+- Quality of labeling
+
+### Data Augmentation:
+- Audio
     - Timeshifting
     - Timestretch
     - Pitch
-    - Noise
-    
+    - Noise 
+        - add (wablr open data ??)
+        - remove
+- Extra
+    - GPS ?
+ 
+### Ethics
+- Who may ideally benefit from the technology? Could it do potential harm?
